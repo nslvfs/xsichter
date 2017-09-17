@@ -30,4 +30,4 @@ License: Non stated - so i guess public domain<br />
 codebird-php<br />
 Source: https://github.com/jublonet/codebird-php <br />
 License: GNU GENERAL PUBLIC LICENSE Version 3<br />
-Besides mentioned scripts, which i partly edited to fit my needs, i declare my work published under public domain as state in the license.md file.<br />
+Besides mentioned scripts, which i partly edited to fit my needs, i declare my work published under public domain as stated in the license.md file.<br />
